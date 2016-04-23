@@ -1,0 +1,26 @@
+{
+  "name": "jPlotter",
+  "version": "0.1.0",
+  "description": "Graphical Data using D3.js for the browser and node",
+  "main": "src/plotter.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeriv/plotter.git"
+  },
+  "keywords": [
+    "plot",
+    "graph",
+    "d3",
+    "svg",
+    "charts"
+  ],
+  "author": "Jorge Rivera <jorgeriv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgeriv/plotter/issues"
+  },
+  "homepage": "https://github.com/jorgeriv/plotter#readme"
+}
