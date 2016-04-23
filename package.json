@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jorgeriv/plotter.git"
+    "url": "git+https://github.com/jorgeriv/jplotter.git"
   },
   "keywords": [
     "plot",
@@ -20,7 +20,7 @@
   "author": "Jorge Rivera <jorgeriv@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jorgeriv/plotter/issues"
+    "url": "https://github.com/jorgeriv/jplotter/issues"
   },
-  "homepage": "https://github.com/jorgeriv/plotter#readme"
+  "homepage": "https://github.com/jorgeriv/jplotter#readme"
 }
